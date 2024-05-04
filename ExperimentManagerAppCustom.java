@@ -349,5 +349,3 @@ class BacteriaPopulationCustom {
         return finalFoodAmount;
     }
 }
-
-
